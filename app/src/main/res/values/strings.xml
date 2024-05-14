@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task_2_10</string>
+    <string name="start">Старт!</string>
+    <string name="user">Анатолий Горшков РИБО-04-22</string>
+    <string name="enterModel">Введите модель</string>
+    <string name="enterNumber">Введите номер</string>
+    <string name="enterYear">Введите год выпуска</string>
+    <string name="showCars">Показать список машин</string>
+    <string name="addCars">Добавить машину в список</string>
+</resources>
